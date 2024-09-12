@@ -1,6 +1,6 @@
-Foundations
+# Foundations
 
-"The Production of Technology and the Production of Human Meaning" by Charles Bazerman
+## "The Production of Technology and the Production of Human Meaning" by Charles Bazerman
 
 Begins with series of questions about rhetoric, and technology
 
@@ -16,13 +16,12 @@ Rhetoric: the effective and persuasuasive use of language or other faculties to 
 
 Question of whether or not there can be a rhetoric of technology
 
-Three key distinctions:
+### Three Key Distinctions
 1. Identification of fields
 2. Degree of enclosure that bounds the fields
 3. The effect of materiality on the symbolic activity
 
-
-Compare and contrast of rhetoric of science and rhetoric of technology.
+Constant compare and contrast of rhetoric of science and rhetoric of technology.
 
 Rhetoric and science as a tautology and oxymoron (i.e., how science can work through faulty human means and emotions and can still be considered factual and stable)
 
