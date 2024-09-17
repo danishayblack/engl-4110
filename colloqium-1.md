@@ -1,10 +1,12 @@
-# Questions to Answer
+# Colloqium 1: Foundations
+
+## Questions to Answer
 1. Identify the passage where you think the author most clearly expresses the problem or the issue that they are responding to with the article? (e.g., quote, sentence, paragraph, section).
 2. What passage does the author best express their response? How do they resolve the problem? Where in the text do they do that?
 
-# Notes (9/17)
+## Notes (9/17)
 
-## Bazerman Article
+### Bazerman Article
 Question of whether or not there can be a rhetoric of technology (uses comparisons with the rhetoric of science)
 
 Science and technology as the same but also very different
@@ -23,7 +25,7 @@ Yes, there can be a rhetoric of technology. It's "the rhetoric of all the discou
 
 Rhetoric of different discourses - politics, law, language, all in one medium.
 
-## McLuhan Article
+### McLuhan Article
 
 How technology has changed how we interact with one another - pg. 12 (Q1) main issue
 
