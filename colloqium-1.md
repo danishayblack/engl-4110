@@ -4,6 +4,13 @@
 1. Identify the passage where you think the author most clearly expresses the problem or the issue that they are responding to with the article? (e.g., quote, sentence, paragraph, section).
 2. What passage does the author best express their response? How do they resolve the problem? Where in the text do they do that?
 
+## Notes (9/19)
+* Turing - "we can see plenty there that needs to be done." Do we need to do more in terms of computer development? Do we need to develop more as a society to better interact with the machines that we are creating?
+* Ambiguity of the quote. Author is getting into theoreticals and wants to maintain integrity. Leave the conversation here and come back to it at another time
+* What it might take for a computer to be someone. What does it take for a computer to replicate a human? What would it take for a computer to become its own species?
+* Haraway - dualism, science and social together. Social aspect of how are the people around me feeling but also let me go through these possibilities in an intentional way
+* Opportunity to make a choice and how we see the world
+
 ## Notes (9/17)
 
 ### Bazerman Article
