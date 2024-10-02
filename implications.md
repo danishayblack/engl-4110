@@ -2,7 +2,7 @@
 
 ## "The Age of Surveillance Capitalism" by Shoshana Zoboff
 
-Industrial Capitalism: economic system from the industrial revolution characterized by the domiance of industrialists (i.e., a person who owns or manages an industry) over merchants (i.e., a person who trades goods produced by other people). Also includes the inclination towards factory production. 
+**Industrial Capitalism:** economic system from the industrial revolution characterized by the domiance of industrialists (i.e., a person who owns or manages an industry) over merchants (i.e., a person who trades goods produced by other people). Also includes the inclination towards factory production. 
 
 The question of "are we all going to be working for a smart machine, or will we have smart people around the machine?"
 
@@ -26,9 +26,9 @@ The goal is now to automate us
 
 Companies retain people's information for at least "some time."
 
-Edison's letter to Henry Ford about a new industrial civilization in 1912. 
+Edison's letter to Henry Ford about a new industrial civilization in 1912. Recognized the darkness surrounding it.
 
-Right to the future tense - accounts for individual's ability to imagine, intend, promise, and construct a future
+**Right to the future tense:** accounts for individual's ability to imagine, intend, promise, and construct a future
 
 If suerveillance capitalism disrupts a human home, what does it do to human nature?
 
